@@ -1,4 +1,5 @@
-# linked-lists ## Linked List in JavaScript
+# linked-lists
+## Linked List in JavaScript
 
 This is a simple implementation of a singly linked list in JavaScript. The linked list is created using a series of nodes, each of which contains a value and a pointer to the next node in the list.
 
